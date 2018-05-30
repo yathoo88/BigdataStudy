@@ -1,7 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e580019b-d7de-46d6-a874-dfbe85ca8a52" name="Default" comment="" />
+    <list default="true" id="e580019b-d7de-46d6-a874-dfbe85ca8a52" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/t10k-0-7.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/t10k-1-2.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/t10k-2-1.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/t10k-3-0.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/t10k-4-4.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/t10k-5-1.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/t10k-6-4.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/t10k-7-9.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/t10k-8-5.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/t10k-9-9.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/t10k-images-idx3-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/t10k-images-idx3-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/t10k-labels-idx1-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/t10k-labels-idx1-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/t10k.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/train-0-5.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/train-1-0.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/train-2-4.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/train-3-1.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/train-4-9.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/train-5-2.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/train-6-1.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/train-7-3.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/train-8-1.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/train-9-4.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/train-images-idx3-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/train-images-idx3-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/train-labels-idx1-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/train-labels-idx1-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/mnist/train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/scikit-learn-sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_running/scikit-learn-sample2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraping_crawling/Website.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraping_crawling/WebsiteLogin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraping_crawling/beautifulsoup1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraping_crawling/beautifulsoup2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraping_crawling/download-png1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraping_crawling/excel-sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraping_crawling/ghostdriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraping_crawling/json-sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraping_crawling/naverMail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraping_crawling/newExcelFile.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraping_crawling/request-login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraping_crawling/selenium-sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraping_crawling/stat_104102.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraping_crawling/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraping_crawling/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraping_crawling/xml-sample.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,27 +93,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="selenium-sample.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/selenium-sample.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="json-sample.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/json-sample.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="excel-sample.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/excel-sample.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -83,16 +111,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scikit-learn-sample2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="scikit-learn-sample2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scikit-learn-sample2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1463">
-              <caret line="77" column="61" lean-forward="true" selection-start-line="77" selection-start-column="61" selection-end-line="77" selection-end-column="61" />
+              <caret line="77" column="61" selection-start-line="77" selection-start-column="61" selection-end-line="77" selection-end-column="61" />
               <folding>
                 <element signature="e#2164#2213#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="beautifulsoup1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scraping_crawling/beautifulsoup1.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="scikit-learn-sample.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/machine_running/scikit-learn-sample.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="mnist-tocsv.py" pinned="false" current-in-tab="false">
@@ -112,6 +150,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -136,6 +177,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -196,7 +238,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -215,30 +257,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/selenium-sample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/json-sample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/excel-sample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scikit-learn-sample.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -619,12 +637,21 @@
     <entry file="file://$PROJECT_DIR$/scikit-learn-sample2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1463">
-          <caret line="77" column="61" lean-forward="true" selection-start-line="77" selection-start-column="61" selection-end-line="77" selection-end-column="61" />
+          <caret line="77" column="61" selection-start-line="77" selection-start-column="61" selection-end-line="77" selection-end-column="61" />
           <folding>
             <element signature="e#2164#2213#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scraping_crawling/beautifulsoup1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine_running/mnist/t10k.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine_running/scikit-learn-sample.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
