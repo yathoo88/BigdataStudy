@@ -1,3 +1,5 @@
+####  파일 다운로드 및 압축 풀기
+
 # import urllib.request as req
 # import gzip, os, os.path
 # 
@@ -32,9 +34,7 @@
 # print("complete!!")
 
 
-
-
-# #  바이너리 파일을 csv로 변환
+####  바이너리 파일을 csv로 변환
 # import struct
 # def to_csv(name, maxdata):
 #     # 레이블 파일과 이미지 파일 열기
@@ -70,8 +70,6 @@
 # to_csv("t10k", 500)
 
 
-
-
 from sklearn import model_selection, svm, metrics
 import pandas
 
@@ -82,14 +80,16 @@ tk_csv = pandas.read_csv("./mnist/t10k.csv", header=None)
 def test(l):
     output = []
     for i in l:
-        output.append(float(i)/256)
+        output.append(float(i) / 256)
     return output
 
+
 train_csv_data = list(map(test, train_csv.iloc[:, 1:].values))
-train_csv_label = list(map(test, train_csv.iloc[:, 1:].values))
-tk_csv_data = tk_csv.iloc[:, 1:]
+train_csv_label = train_csv[0].values
+tk_csv_data = list(map(test, tk_csv.iloc[:, 1:].values))
 tk_csv_label = tk_csv[0].values
 
+# print(tk_csv_label)
 clf = svm.SVC()
 clf.fit(train_csv_data, train_csv_label)
 predict = clf.predict(tk_csv_data)
