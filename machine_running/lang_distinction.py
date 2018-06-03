@@ -3,6 +3,9 @@ import glob, os.path, re, json
 import matplotlib.pyplot as plt
 import pandas as pd
 
+
+######데이터 학습
+
 # glob을 이용해 file들을 가져온다.
 files = glob.glob("./lang/train/*.txt")
 print("glob ::: ", files)
@@ -85,7 +88,7 @@ for file_name in files:
 
 
 
-
+######그래프 그리기
 
 #그래프 그릴 dataFrame 생성
 graph_dict = {}
