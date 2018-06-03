@@ -14,8 +14,12 @@ big data 분석에 필요한 기본적인 라이브러리와 파이썬 예제
 > 머신러닝 프레임워크
 
 #### Pandas
-> python 데이터 분석, 처리에 특화된 라이브러리
+> python 데이터 분석, 처리에 특화된 라이브러리 -> 데이터 시각화  
 참고강의 : https://www.youtube.com/watch?v=pFXipjh0ghw&list=PLVNY1HnUlO26Igldy2Q6Nb2LZbpQWTyle
+
+#### matplotlib
+> numpy와 자주 함께 사용되는 그래프 그리기 lib.  -> 데이터 시각화
+
 
 
 ##### 학습하기 좋은 무료 API 공개 사이트
