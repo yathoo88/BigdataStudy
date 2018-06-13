@@ -13,6 +13,11 @@ bf.fit("계약 잘 부탁드립니다","중요")
 bf.fit("회의 일정이 등록되었습니다.","중요")
 bf.fit("오늘 일정이 없습니다.","중요")
 
+print(bf.words)
+print(bf.word_dict)
+print(bf.category_dict)
+
+
 pre, scorelist = bf.predict("재고 정리 할인, 무료 배송")
 print("결과 =", pre)
 print(scorelist)
